@@ -1,7 +1,16 @@
 [package]
 name = "primitive-archiver"
+description = "Primitive archiver"
 version = "0.1.0"
 edition = "2024"
+homepage = "https://github.com/yhdgms1/primitive-archiver"
+repository = "https://github.com/yhdgms1/primitive-archiver"
+readme = "README.md"
+license = "MIT"
+keywords = []
+exclude = [
+  "src/main.rs"
+]
 
 [dependencies.async-compression]
 version = "0.4.18"
