@@ -1,0 +1,9 @@
+{
+  "name": "primitive-archiver",
+  "main": "./dist.index.js",
+  "module": "./dist/index.js",
+  "types": "./dist.index.d.ts",
+  "dependencies": {
+    "fflate": "^0.8.2"
+  }
+}
